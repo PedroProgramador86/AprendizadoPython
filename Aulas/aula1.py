@@ -1,6 +1,6 @@
 # O hashtag permite a escrita de um comentario
 #Acima
-print(123) # Na frente
+print(123, 32) # Na frente
 #Abaixo
 
 """
