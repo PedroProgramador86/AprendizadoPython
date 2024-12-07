@@ -10,4 +10,4 @@ elif(entrada == "sair"):
     print("Você saiu do sistema")
 
 else:
-    print("opção invalida")
+    print("opção invalida") 
