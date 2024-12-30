@@ -28,29 +28,29 @@ descrito, exiba a saudação apropriada. Ex.
 Bom dia 0-11, Boa tarde 12-17 e Boa noite 18-23.
 """
 
-nome = input("Digite o seu nome: ")
-nome_str = str(nome)
+# nome = input("Digite o seu nome: ")
+# nome_str = str(nome)
 
-try:
+# try:
 
-    horario = input("Digite o horario atual: ")
-    horario_int = int(horario)
+#     horario = input("Digite o horario atual: ")
+#     horario_int = int(horario)
 
-    if(horario_int >= 0 and horario_int <= 11):
-        print(f"Bom dia {nome_str}")
+#     if(horario_int >= 0 and horario_int <= 11):
+#         print(f"Bom dia {nome_str}")
 
-    elif(horario_int >= 12 and horario_int <= 17):
-        print(f"Boa tarde {nome_str}")
+#     elif(horario_int >= 12 and horario_int <= 17):
+#         print(f"Boa tarde {nome_str}")
 
-    elif(horario_int >= 18 and horario_int <= 23):
-        print(f"Boa noite {nome_str}")
+#     elif(horario_int >= 18 and horario_int <= 23):
+#         print(f"Boa noite {nome_str}")
 
-    elif(horario_int >= 25):
-        print(f"Horario Estrapolado !")
+#     elif(horario_int >= 25):
+#         print(f"Horario Estrapolado !")
 
-except:
+# except:
 
-    print("Valor Invalido !")
+#     print("Valor Invalido !")
 
 # """
 # Faça um programa que peça o primeiro nome do usuário. Se o nome tiver 4 letras ou 
