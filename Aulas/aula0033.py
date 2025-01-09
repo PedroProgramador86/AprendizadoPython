@@ -10,8 +10,14 @@ Imutveis que vimos: str, int, float, bool
 #p.ex:
 
 
-string = 'Pedro Enzo'
-# outra_variavel = string
+string = 'pedro enzo'
+string2 = "PEDRO ENZO"
+outra_variavel = string
 
-string[3] = 'ABC'
-print(string[4])
+# string[3] = 'ABC'
+# print(string[4])
+
+print(outra_variavel)
+print(string.capitalize())
+print(string.isupper())
+print(string2.isupper())
