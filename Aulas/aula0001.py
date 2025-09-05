@@ -2,9 +2,13 @@ print("hello World")
 
 # O hashtag permite a escrita de um comentario
 
+# O comentario pode ser exibido:
+
 #Acima
 print(123, 32) # Na frente
 #Abaixo
+
+# da linha
 
 """
 

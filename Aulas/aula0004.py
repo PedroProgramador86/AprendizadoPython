@@ -1,4 +1,5 @@
 # Tipos int e float
+
 # O tipo int representa qualquer número positivo ou negativo. int sem sinal é considerado positivo
 print(12)
 print(-13)

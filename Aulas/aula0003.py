@@ -32,4 +32,4 @@ print("É assim como o \"escape\" funciona")
 
 # Exibe o caractere de Escape
 
-print("É assim como o \"escape\" funciona")
+print(r"Mostrando o caractere de \"escape\" ")
