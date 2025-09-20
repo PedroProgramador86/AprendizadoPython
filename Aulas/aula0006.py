@@ -4,7 +4,8 @@
 # str, int, float, bool
 print(1 + 1)
 #print('1' + 1) #Codigo com erro
-print(int('1') + 1)
+print(int('1') + 1) #<- Entender isso é importante, pois quando pedimos um determinado dado ao usuario em "str" podemos até (as vezes) converte-lo em um tipo numerico
+#print(int('P') + 1) #Codigo com erro
 print(int('1'), type(int('1')))
 print('a' + 'b')
 

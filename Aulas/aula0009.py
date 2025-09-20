@@ -18,3 +18,8 @@ print("Expotenciação: ", expotenciacao)
 
 modulo = 55 % 5
 print("Modulo: ", modulo)
+
+print(10 % 8 == 0)
+print(16 % 8 == 0)
+print(15 % 2 == 0)
+print(16 % 3 == 0)

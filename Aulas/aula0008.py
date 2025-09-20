@@ -1,10 +1,10 @@
 
 nome = 'Pedro Enzo'
 sobrenome = 'Lima Luna'
-idade = 18
-ano_de_nascimento = 2024 - 18
-maiordeidade = idade >= 18
-altura = 1.80
+idade = 19
+ano_de_nascimento = 2025 - idade
+maiordeidade = idade >= 19
+altura = 1.79
 
 print("Nome: ", nome)
 print("Sobrenome: ", sobrenome)
